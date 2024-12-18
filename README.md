@@ -1,5 +1,4 @@
 ### Customer Lifetime Value (CLV) Project
-Google sheet link: https://docs.google.com/spreadsheets/d/1M1UVaigvNnHa5xlzLwQVVg2kQ1SKNlM2OGe8RyibvZ0/edit?usp=sharing
 
 ### Project Summary: 
 - In this project, I performed a detailed cohort analysis to estimate Customer Lifetime Value (CLV) by analyzing weekly revenue and registration cohorts, as per the instructions. The goal was to address the limitations of Shopify’s simplistic CLV formula by considering all user registrations (not just purchasers) and analyzing customer retention over a 12-week period.
