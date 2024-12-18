@@ -1,4 +1,4 @@
-### Customer Lifetime Value (CLV) Project
+### Customer Lifetime Value (CLV)  and Customer Segmentation & RFM Project
 
 ### Project Summary: 
 - In this project, I performed a detailed cohort analysis to estimate Customer Lifetime Value (CLV) by analyzing weekly revenue and registration cohorts, as per the instructions. The goal was to address the limitations of Shopify’s simplistic CLV formula by considering all user registrations (not just purchasers) and analyzing customer retention over a 12-week period.
@@ -28,7 +28,7 @@ Cumulative Revenue by Cohorts (USD)
 Revenue Prediction by Cohorts (USD)
 Conditional formatting was applied to highlight trends and make the data easier to interpret.
 
-### Project Overview: RFM Graded Task Suggested Solution
+### Project Overview: Customer Segmentation & RFM
 The project focuses on calculating and segmenting customers based on the RFM (Recency, Frequency, Monetary) model. This model is used in marketing analytics to classify customers based on their purchasing behavior, helping businesses target specific segments effectively.
 
 ## RFM Score Calculation:
